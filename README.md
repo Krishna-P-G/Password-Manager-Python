@@ -1,2 +1,2 @@
 # Password-Manager-Python
-Save all your passwords in a text file with just little python , i have used tkinter to create the password manager
+Save all your passwords in json file with python tkinter , save your passwords and search for your passwords anytime
